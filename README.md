@@ -1,0 +1,1 @@
+# legalErase-AI-powered-Legal-Document-Generator
